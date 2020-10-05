@@ -7,10 +7,10 @@ Use Elgato Steam Deck with [Luxafor](https://luxafor.com) availability indicator
 
 ## Requirements
 
-* [Lugafor Flag] (https://luxafor.com/?hello=35&campaign=github_luxa_meet) *affiliate link*
-* Download and install [Luxafor Software] (https://luxafor.com/download) 
+* [Lugafor Flag](https://luxafor.com/?hello=35&campaign=github_luxa_meet) *affiliate link*
+* Download and install [Luxafor Software](https://luxafor.com/download) 
 * Elgato Stream Deck
-* [Python Version 3] (https://wiki.python.org/moin/BeginnersGuide/Download)
+* [Python Version 3](https://wiki.python.org/moin/BeginnersGuide/Download)
 
 ## Let's go
 
