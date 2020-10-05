@@ -1,5 +1,7 @@
 Use Elgato Steam Deck with [Luxafor](https://luxafor.com) availability indicator Ligt. 
 
+(https://media.giphy.com/media/TYHCvho96Ca7Zd8btX/giphy.gif)
+
 # How to Setup
 
 ## Requirements
