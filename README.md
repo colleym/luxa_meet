@@ -1,4 +1,4 @@
-Use Elgato Steam Deck with [Luxafor](https://luxafor.com) availability indicator Ligt. 
+Use Elgato Steam Deck with [Luxafor](https://luxafor.com/?hello=35&campaign=github_luxa_meet)\* LED availability indicator. 
 
 ![Demo](assets/luxafor-streamdeck-demo.gif)
 
@@ -7,7 +7,7 @@ Use Elgato Steam Deck with [Luxafor](https://luxafor.com) availability indicator
 
 ## Requirements
 
-* [Lugafor Flag](https://luxafor.com/?hello=35&campaign=github_luxa_meet) *affiliate link*
+* [Luxafor Flag](https://luxafor.com/?hello=35&campaign=github_luxa_meet)*
 * Download and install [Luxafor Software](https://luxafor.com/download) 
 * Elgato Stream Deck
 * [Python Version 3](https://wiki.python.org/moin/BeginnersGuide/Download)
@@ -29,3 +29,6 @@ echo "webhookid=YOURWEBHOOKID" > webhookid.conf
 ### Stream Deck
 * Add Key (System -> Open) 
 * Selct run_green.sh Script
+
+Disclaimer
+\* *affiliate links*
