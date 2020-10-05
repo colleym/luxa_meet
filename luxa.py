@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Luxafor API Documentation
+# https://luxafor.helpscoutdocs.com/article/25-webhook-api-basics-and-guidelines
+# Accepted colors: “red”, “green”, “yellow”, “blue”, “white”, “cyan”, “magenta”
+
 import sys, getopt
 import json
 import requests
